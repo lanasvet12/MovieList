@@ -24,7 +24,7 @@ Accordingly, when pressed again, remove this movie from the WillWatch list
 (change the button styles depending on whether or not this movie wants to be watched - for example, its color,
 hint: depending on the state of the MovieItem component)</li>
 </ol>
-<p>he output should be <a href="https://reactwarriors.github.io/reactwarriors-stage-1/" rel="nofollow">https://lanasvet12.github.io/MovieList/</a></p>
+<p>Its output should be <a href="https://reactwarriors.github.io/reactwarriors-stage-1/" rel="nofollow">https://lanasvet12.github.io/MovieList/</a></p>
 <h2> <a id = "user-content-image-path-for-component-movieitem" class = "anchor" aria-hidden = "true" href = "# component-image-path-for-component- movieitem ">  </a> Path to Images for MovieItem </h2>
 <pre> <code> https://image.tmdb.org/t/p/w500${path}
 </code></pre>
