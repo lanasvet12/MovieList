@@ -25,7 +25,7 @@ Accordingly, when pressed again, remove this movie from the WillWatch list
 hint: depending on the state of the MovieItem component)</li>
 </ol>
 <p>he output should be <a href="https://reactwarriors.github.io/reactwarriors-stage-1/" rel="nofollow">https://lanasvet12.github.io/MovieList/</a></p>
-<h2> <a id = "user-content-image-path-for-component-movieitem" class = "anchor" aria-hidden = "true" href = "# component-image-path-for-component- movieitem "> <svg class =" octicon octicon-link "viewBox =" 0 0 16 16 "version =" 1.1 "width =" 16 "height =" 16 "aria-hidden =" true "> </a> Path to Images for MovieItem </h2>
+<h2> <a id = "user-content-image-path-for-component-movieitem" class = "anchor" aria-hidden = "true" href = "# component-image-path-for-component- movieitem ">  </a> Path to Images for MovieItem </h2>
 <pre> <code> https://image.tmdb.org/t/p/w500${path}
 </code></pre>
 </article>
